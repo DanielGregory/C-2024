@@ -1,0 +1,3 @@
+﻿  Project3.cpp
+C:\Users\Danny\CS315Project3\CS315Project3\Project3.cpp(101,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CS315Project3.vcxproj -> C:\Users\Danny\CS315Project3\x64\Debug\CS315Project3.exe
