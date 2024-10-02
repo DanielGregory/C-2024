@@ -19,7 +19,7 @@ Red-Black Tree (RBT)
 - Deletion of nodes with rebalancing
 - Inorder traversal
 - Calculation of maximum depth
-- 
+  
 Usage
 1. Compile the program using a C++ compiler:
     g++ -o bst_rbt main.cpp
